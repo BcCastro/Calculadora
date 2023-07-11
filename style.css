@@ -11,18 +11,18 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #f1f1f1;
+    background-color: #51c7b7;
   }
   
   .calculator-night {
     background-color: #202020;
-    color: #fff;
+    color: #0f968f;
   }
   
   .display {
     background-color: #fff;
-    border: 1px solid #ffffff;
-    padding: 10px;
+    border: 12px solid #ffffff;
+    padding: 12px;
     margin-bottom: 10px;
     font-size: 20px;
     text-align: right;
@@ -35,18 +35,18 @@ body{
   }
   
   .buttons button {
-    background-color: #eee;
+    background-color: #eeee;
     border: none;
-    padding: 15px;
-    font-size: 18px;
+    padding: 25px;
+    font-size: 25px;
     text-align: center;
     cursor: pointer;
   }
   
   .buttons button:hover {
-    background-color: #ddd;
+    background-color: #a86e6e;
   }
   
   .buttons button:active {
-    background-color: #ccc;
+    background-color: #b83737;
   }
