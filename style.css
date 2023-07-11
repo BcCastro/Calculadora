@@ -5,6 +5,7 @@ body{
   }
   
   .calculator {
+    border-radius: 90%;
     max-width: 100%;
     height: 100vh;
     display: flex;
